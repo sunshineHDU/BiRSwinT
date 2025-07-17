@@ -1,8 +1,6 @@
 # BiRSwinT
 
-Wenxuan Yang, Chenghao Tan, Yuxin Chen, Huang Xia, Xuexi Tang, Yifan Cao, [**Wenhui Zhou**](https://faculty.hdu.edu.cn/jsjxy/zwh_en/main.htm), Lili Lin, and Guojun Dai, BiRSwinT: Bilinear Full-Scale Residual Swin-Transformer for Fine-Grained Driver Behavior Recognition. Journal of the Franklin Institute, 2023. 360(2): 1166-1183. 
-
-This repo is the official implementation of ["BiRSwinT: Bilinear Full-Scale Residual Swin-Transformer for Fine-Grained Driver Behavior Recognition"](https://www.sciencedirect.com/science/article/abs/pii/S0016003222008857?via%3Dihub). It currently includes code and models for the following tasks:
+This repo is the official implementation of Wenxuan Yang, Chenghao Tan, Yuxin Chen, Huang Xia, Xuexi Tang, Yifan Cao, [**Wenhui Zhou**](https://faculty.hdu.edu.cn/jsjxy/zwh_en/main.htm), Lili Lin, and Guojun Dai, ["BiRSwinT: Bilinear Full-Scale Residual Swin-Transformer for Fine-Grained Driver Behavior Recognition"](https://www.sciencedirect.com/science/article/abs/pii/S0016003222008857?via%3Dihub). It currently includes code and models for the following tasks:
 
 > **Image Classification**: Included in this repo. See [get_started.md](get_started.md) for a quick start.
 
